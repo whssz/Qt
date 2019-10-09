@@ -1,0 +1,4 @@
+#忽略视频文件
+*.mp4
+/video
+/json_file
